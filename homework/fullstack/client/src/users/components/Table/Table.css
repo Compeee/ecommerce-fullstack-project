@@ -1,0 +1,9 @@
+.people-table {
+    border-collapse: collapse;
+    margin: 25px auto;
+  }
+  
+  .people-table thead tr {
+    text-align: center;
+    font-weight: bold;
+  }
