@@ -1,0 +1,9 @@
+.item-table {
+  border-collapse: collapse;
+  margin: 25px auto;
+}
+
+.item-table thead tr {
+  text-align: center;
+  font-weight: bold;
+}
