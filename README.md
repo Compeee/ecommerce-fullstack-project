@@ -15,7 +15,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone https://gitlab.tamk.cloud/EeroK/5g00ev16-3001-kaarnalehto-eero-project.git
+$ git clone https://github.com/Compeee/fullstack-project.git
 ```
 
 ### 2. Setup Database
