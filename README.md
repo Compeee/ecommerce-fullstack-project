@@ -7,7 +7,6 @@
 | Owner              | Eero Kaarnalehto / eero.kaarnalehto@tuni.fi |
 | Description        | Ecommerce website                           |
 | Development Server | localhost                                   |
-| Production Server  | http://172.16.7.1/                          |
 
 ***TO CREATE ADMIN USER SIGN UP WITH EMAIL testi@ukko.fi***
 
