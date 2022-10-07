@@ -8,8 +8,6 @@
 | Description        | Ecommerce website                           |
 | Development Server | localhost                                   |
 
-***TO CREATE ADMIN USER SIGN UP WITH EMAIL testi@ukko.fi***
-
 # Run Locally
 
 ### 1. Clone repo
